@@ -19,7 +19,7 @@ class App extends PureComponent {
 		super(props);
 
 		this.state = {
-			value: 0
+			value: 0,
 		}
 	}
 
