@@ -24,7 +24,7 @@ class App extends PureComponent {
 	}
 
 	increment() {
-		this.setState({ value: this.state.value + 1 })
+		this.setState({ value: this.state.value + 1 });
 	}
 
 	render() {
